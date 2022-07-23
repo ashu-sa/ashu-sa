@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android, Python oriented jobs**
+- 💬 Ask me about **Android **
 
 - 📫 Reach me at:- **sahooashutosh222@gmail.com**
 
