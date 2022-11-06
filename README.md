@@ -29,4 +29,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu-sa&show_icons=true&locale=en&layout=compact" alt="ashu-sa" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ashu-sa&show_icons=true&locale=en" alt="ashu-sa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashu-sa&show_icons=true&locale=en" alt="ashu-sa" /></p>
