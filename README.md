@@ -1,5 +1,5 @@
 <h1 align="center">Hi-ya👋, I'm Ashutosh</h1>
-<img align="right" alt="Coding" width="380" margin"500" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<!-- <img align="right" alt="Coding" width="380" margin"500" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> -->
 
 
 
@@ -7,9 +7,8 @@
 
 - 💬 Ask me about **Android, Kotlin**
 
-- 📫 Reach me at:- **sahooashutosh222@gmail.com**
+- 📫 Reach me at:- **ashutoshh202@gmail.com**
 
-- ❤️ **Open Source & Community Work** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
