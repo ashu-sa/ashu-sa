@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashutosh-sahoo-as22/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/ashutosh202/">LinkedIn</a> ·
   <a href="mailto:ashutoshh202@gmail.com">Email</a> ·
   <a href="https://github.com/ashu-sa?tab=repositories">Projects</a>
 </p>
@@ -64,4 +64,4 @@ These are areas I want to grow into, building on my Android experience.
 
 I’m interested in Android opportunities and conversations with people building automotive or connected-device software.
 
-[LinkedIn](https://www.linkedin.com/in/ashutosh-sahoo-as22/) · [ashutoshh202@gmail.com](mailto:ashutoshh202@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ashutosh202/) · [ashutoshh202@gmail.com](mailto:ashutoshh202@gmail.com)
