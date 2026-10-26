@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ashutosh Sahoo — Android developer</title>
+  <desc id="desc">Android today. Connected systems next. Interests in Automotive, IoT, drones and robotics.</desc>
+  <rect width="1280" height="320" rx="24" fill="#111e1b"/>
+  <path d="M880 0v320M960 0v320M1040 0v320M1120 0v320M1200 0v320M840 80h440M840 160h440M840 240h440" stroke="#294039" stroke-width="1" opacity=".5"/>
+  <rect x="54" y="53" width="5" height="26" rx="2" fill="#b5e4bd"/>
+  <text x="77" y="73" fill="#b5e4bd" font-family="system-ui, sans-serif" font-size="17" font-weight="600" letter-spacing="3">ANDROID DEVELOPER</text>
+  <text x="54" y="150" fill="#f3f5ed" font-family="system-ui, sans-serif" font-size="55" font-weight="700" letter-spacing="-1.5">Ashutosh Sahoo</text>
+  <text x="56" y="199" fill="#c3d2c9" font-family="system-ui, sans-serif" font-size="25">Android today. Connected systems next.</text>
+  <text x="56" y="262" fill="#a3b7ab" font-family="system-ui, sans-serif" font-size="16" letter-spacing="1">KOTLIN  /  JETPACK COMPOSE  /  NATIVE APPS</text>
+  <g fill="none" stroke="#739f85" stroke-width="2">
+    <path d="M890 157h64v-64h110M954 157h156v69h100M1064 93v-35h100M1110 157h100"/>
+    <rect x="855" y="123" width="68" height="68" rx="17" fill="#22392f" stroke="#b5e4bd"/>
+    <circle cx="1064" cy="93" r="13" fill="#111e1b"/><circle cx="1164" cy="58" r="7" fill="#b5e4bd" stroke="none"/>
+    <circle cx="1210" cy="157" r="7" fill="#b5e4bd" stroke="none"/><circle cx="1210" cy="226" r="7" fill="#b5e4bd" stroke="none"/>
+  </g>
+  <text x="889" y="166" text-anchor="middle" fill="#d5efda" font-family="monospace" font-size="25" font-weight="700">&lt;/&gt;</text>
+  <text x="1050" y="282" text-anchor="middle" fill="#a3b7ab" font-family="system-ui, sans-serif" font-size="13" letter-spacing="2">SOFTWARE ↔ HARDWARE</text>
+</svg>
