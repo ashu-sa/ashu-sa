@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Ashutosh Sahoo — Android developer. Experience: Android. Exploring: Android Automotive, IoT, drones and robotics." width="100%" />
+  <img src="assets/profile-banner.svg" alt="Ashutosh Sahoo — Android developer. Native apps with Kotlin, Compose and SwiftUI. Exploring hardware connected with software." width="100%" />
 </p>
 
 <p align="center">
@@ -8,28 +8,40 @@
   <a href="https://github.com/ashu-sa?tab=repositories"><img src="assets/contact-github.svg" alt="Browse my repositories" height="42" /></a>
 </p>
 
-I’m Ashutosh, an **Android developer working with Kotlin and Jetpack Compose**. My projects range from recipe discovery and offline file sharing to a focus timer with a growing-tree companion.
+I’m Ashutosh. I build native apps with **Kotlin, Jetpack Compose and SwiftUI**—from recipe discovery and offline file sharing to desktop utilities and a growing-tree focus timer.
 
-I’m interested in **Android Automotive, IoT, drones and robotics**—especially the Android apps that connect to those systems. My experience so far is in Android; AuraDrive is an early Automotive exploration.
+Exploring how **hardware connects with software** through **Android Automotive, IoT, drones and robotics**.
 
 ## Technical skills
 
-<table>
-  <tr>
-    <td align="center" width="25%"><img src="assets/icons/kotlin.svg" width="42" height="42" alt="Kotlin" /><br /><strong>Kotlin</strong></td>
-    <td align="center" width="25%"><img src="assets/icons/compose.svg" width="42" height="42" alt="Jetpack Compose" /><br /><strong>Jetpack Compose</strong></td>
-    <td align="center" width="25%"><img src="assets/icons/android.svg" width="42" height="42" alt="Android" /><br /><strong>Android</strong></td>
-    <td align="center" width="25%"><img src="assets/icons/androidstudio.svg" width="42" height="42" alt="Android Studio" /><br /><strong>Android Studio</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/icons/gradle-backed.svg" width="42" height="42" alt="Gradle" /><br /><strong>Gradle</strong></td>
-    <td align="center"><img src="assets/icons/git.svg" width="42" height="42" alt="Git" /><br /><strong>Git</strong></td>
-    <td align="center"><img src="assets/icons/githubactions.svg" width="42" height="42" alt="GitHub Actions" /><br /><strong>GitHub Actions</strong></td>
-    <td align="center"><img src="assets/icons/supabase.svg" width="42" height="42" alt="Supabase" /><br /><strong>Supabase</strong></td>
-  </tr>
-</table>
+**Mobile**
 
-**Android development:** Coroutines · Flow / StateFlow · ViewModel · Room · Retrofit · Hilt · Material 3
+<p>
+  <img src="assets/icons/android.svg" width="22" height="22" alt="Android" /> Android &nbsp; · &nbsp;
+  <img src="assets/icons/kotlin.svg" width="22" height="22" alt="Kotlin" /> Kotlin &nbsp; · &nbsp;
+  <img src="assets/icons/compose.svg" width="22" height="22" alt="Jetpack Compose" /> Jetpack Compose &nbsp; · &nbsp;
+  <img src="assets/icons/androidstudio.svg" width="22" height="22" alt="Android Studio" /> Android Studio
+</p>
+
+**Desktop & systems**
+
+<p>
+  <img src="assets/icons/swift.svg" width="22" height="22" alt="Swift / SwiftUI" /> Swift / SwiftUI &nbsp; · &nbsp;
+  <img src="assets/icons/linux.svg" width="22" height="22" alt="Linux" /> Linux &nbsp; · &nbsp;
+  <img src="assets/icons/python.svg" width="22" height="22" alt="Python" /> Python &nbsp; · &nbsp;
+  <img src="assets/icons/qt.svg" width="22" height="22" alt="Qt / PySide6" /> Qt / PySide6
+</p>
+
+**Tools & backend**
+
+<p>
+  <img src="assets/icons/git.svg" width="22" height="22" alt="Git" /> Git &nbsp; · &nbsp;
+  <img src="assets/icons/gradle-backed.svg" width="22" height="22" alt="Gradle" /> Gradle &nbsp; · &nbsp;
+  <img src="assets/icons/githubactions.svg" width="22" height="22" alt="GitHub Actions" /> GitHub Actions &nbsp; · &nbsp;
+  <img src="assets/icons/supabase.svg" width="22" height="22" alt="Supabase" /> Supabase
+</p>
+
+**Android libraries:** Coroutines · Flow / StateFlow · ViewModel · Room · Retrofit · Hilt · Material 3
 
 **Architecture & testing:** MVVM · Repository pattern · Unit tests · Compose UI tests
 
@@ -55,8 +67,8 @@ I’m interested in **Android Automotive, IoT, drones and robotics**—especiall
       <p><a href="https://github.com/ashu-sa/Droplyy#screenshots">Screenshots</a> · <a href="https://github.com/ashu-sa/Droplyy">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ashu-sa/AuraDrive"><img src="assets/project-auradrive.svg" alt="AuraDrive — Android Automotive exploration" width="100%" /></a>
-      <p>An Android Automotive experiment with a driving dashboard, simulated vehicle data and a CarPropertyManager data source. My first steps toward vehicle-connected apps.</p>
+      <a href="https://github.com/ashu-sa/AuraDrive"><img src="assets/project-auradrive.svg" alt="AuraDrive — Android Automotive dashboard" width="100%" /></a>
+      <p>An Android Automotive dashboard with driving screens, vehicle telemetry and simulation controls. Includes CarPropertyManager integration and mock vehicle-data sources.</p>
       <p><a href="https://github.com/ashu-sa/AuraDrive">Explore the code</a></p>
     </td>
   </tr>
@@ -76,7 +88,7 @@ I’m interested in **Android Automotive, IoT, drones and robotics**—especiall
 
 ## Get in touch
 
-Happy to talk about Android work, Automotive projects, or ideas that connect apps to hardware.
+Happy to talk about native apps, Automotive projects, or ideas that connect software to hardware.
 
 <p>
   <a href="https://www.linkedin.com/in/ashutosh202/"><img src="assets/contact-linkedin.svg" alt="Connect on LinkedIn" height="42" /></a>
