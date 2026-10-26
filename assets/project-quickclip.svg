@@ -3,7 +3,7 @@
 <path d="M1 45h518M28 212h464" stroke="#283c49"/>
 <rect x="28" y="21" width="7" height="7" fill="#78dce8"/>
 <text x="47" y="29" font-family="monospace" font-size="10" letter-spacing="1.3" fill="#b6c4cf">macOS / NATIVE UTILITY</text>
-<text x="491" y="29" text-anchor="end" font-family="monospace" font-size="11" fill="#78dce8">/06</text>
+<text x="491" y="29" text-anchor="end" font-family="monospace" font-size="11" fill="#78dce8">/05</text>
 <text x="28" y="97" font-family="system-ui,sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="#edf2f6">QUICKCLIP</text>
 <g fill="#b6c4cf" font-family="system-ui,sans-serif" font-size="16"><text x="28" y="136">Clipboard history. A floating HUD.</text><text x="28" y="160">Files kept close to your workflow.</text></g>
 <text x="28" y="237" font-family="monospace" font-size="10" fill="#78dce8" letter-spacing=".5">SWIFT  ·  SWIFTUI  ·  APPKIT</text>

@@ -74,11 +74,6 @@ Exploring how **hardware connects with software** through **Android Automotive, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ashu-sa/ProductCatalog"><img src="assets/project-productcatalog.svg" alt="ProductCatalog — product search and offline cart" width="100%" /></a>
-      <p>A searchable product catalog with a cart you can edit offline. Room stores the cart; Flow keeps the UI in sync with changes.</p>
-      <p><a href="https://github.com/ashu-sa/ProductCatalog">Architecture, demo & code</a></p>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/ashu-sa/QuickClip"><img src="assets/project-quickclip.svg" alt="QuickClip — native macOS clipboard utility" width="100%" /></a>
       <p>A macOS clipboard utility with a floating panel, pinned clips, file staging and keyboard shortcuts. Built with SwiftUI and AppKit.</p>
       <p><a href="https://github.com/ashu-sa/QuickClip">Preview</a> · <a href="https://github.com/ashu-sa/QuickClip">Code</a></p>
