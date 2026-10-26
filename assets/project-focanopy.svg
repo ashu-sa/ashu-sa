@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="260" viewBox="0 0 520 260" role="img" aria-label="FOCANOPY — Focus timer. Growing trees. Floating controls. Synced history.">
+<rect x="1" y="1" width="518" height="258" rx="8" fill="#0d161e" stroke="#31424d"/>
+<path d="M1 45h518M28 212h464" stroke="#283c49"/>
+<rect x="28" y="21" width="7" height="7" fill="#87d6ac"/>
+<text x="47" y="29" font-family="monospace" font-size="10" letter-spacing="1.3" fill="#b6c4cf">ANDROID / RELEASED APP</text>
+<text x="491" y="29" text-anchor="end" font-family="monospace" font-size="11" fill="#87d6ac">/01</text>
+<text x="28" y="97" font-family="system-ui,sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="#edf2f6">FOCANOPY</text>
+<g fill="#b6c4cf" font-family="system-ui,sans-serif" font-size="16"><text x="28" y="136">Focus timer. Growing trees.</text><text x="28" y="160">Floating controls. Synced history.</text></g>
+<text x="28" y="237" font-family="monospace" font-size="10" fill="#87d6ac" letter-spacing=".5">KOTLIN  ·  COMPOSE  ·  SUPABASE</text>
+<path d="M471 229h18m-6-6 6 6-6 6" fill="none" stroke="#87d6ac" stroke-width="1.5"/>
+<path d="M410 174v-45" stroke="#87d6ac" stroke-width="7"/><path d="M410 150c-38-2-50-24-48-48 31 0 49 14 48 48zm1-14c0-33 20-51 47-51 3 27-13 49-47 51z" fill="#87d6ac"/><ellipse cx="410" cy="177" rx="51" ry="5" fill="#293f3a"/></svg>

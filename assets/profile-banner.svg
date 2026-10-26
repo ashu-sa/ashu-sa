@@ -1,19 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-  <title id="title">Ashutosh Sahoo — Android developer</title>
-  <desc id="desc">Android today. Connected systems next. Interests in Automotive, IoT, drones and robotics.</desc>
-  <rect width="1280" height="320" rx="24" fill="#111e1b"/>
-  <path d="M880 0v320M960 0v320M1040 0v320M1120 0v320M1200 0v320M840 80h440M840 160h440M840 240h440" stroke="#294039" stroke-width="1" opacity=".5"/>
-  <rect x="54" y="53" width="5" height="26" rx="2" fill="#b5e4bd"/>
-  <text x="77" y="73" fill="#b5e4bd" font-family="system-ui, sans-serif" font-size="17" font-weight="600" letter-spacing="3">ANDROID DEVELOPER</text>
-  <text x="54" y="150" fill="#f3f5ed" font-family="system-ui, sans-serif" font-size="55" font-weight="700" letter-spacing="-1.5">Ashutosh Sahoo</text>
-  <text x="56" y="199" fill="#c3d2c9" font-family="system-ui, sans-serif" font-size="25">Android today. Connected systems next.</text>
-  <text x="56" y="262" fill="#a3b7ab" font-family="system-ui, sans-serif" font-size="16" letter-spacing="1">KOTLIN  /  JETPACK COMPOSE  /  NATIVE APPS</text>
-  <g fill="none" stroke="#739f85" stroke-width="2">
-    <path d="M890 157h64v-64h110M954 157h156v69h100M1064 93v-35h100M1110 157h100"/>
-    <rect x="855" y="123" width="68" height="68" rx="17" fill="#22392f" stroke="#b5e4bd"/>
-    <circle cx="1064" cy="93" r="13" fill="#111e1b"/><circle cx="1164" cy="58" r="7" fill="#b5e4bd" stroke="none"/>
-    <circle cx="1210" cy="157" r="7" fill="#b5e4bd" stroke="none"/><circle cx="1210" cy="226" r="7" fill="#b5e4bd" stroke="none"/>
-  </g>
-  <text x="889" y="166" text-anchor="middle" fill="#d5efda" font-family="monospace" font-size="25" font-weight="700">&lt;/&gt;</text>
-  <text x="1050" y="282" text-anchor="middle" fill="#a3b7ab" font-family="system-ui, sans-serif" font-size="13" letter-spacing="2">SOFTWARE ↔ HARDWARE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540">
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1e303a" stroke-width=".6"/></pattern></defs>
+<rect width="1200" height="540" rx="12" fill="#090f14"/><rect x="740" y="50" width="430" height="450" fill="url(#grid)"/>
+<g font-family="monospace" font-size="12" letter-spacing="2"><text x="38" y="33" fill="#78dce8">ASHU-SA / PERSONAL WORKBENCH</text><text x="1162" y="33" text-anchor="end" fill="#7f929e">ANDROID DEVELOPER</text></g>
+<path d="M32 48h1136M32 450h1136" stroke="#31424d"/>
+<path d="M32 80v-16h16M1168 80v-16h-16M32 416v16h16M1168 416v16h-16" fill="none" stroke="#78dce8" stroke-width="2"/>
+<text x="58" y="104" fill="#f3bd67" font-family="monospace" font-size="13" letter-spacing="4">01 / THE DEVELOPER</text>
+<g font-family="system-ui, sans-serif" font-weight="900" fill="#eef3f5" font-size="84" letter-spacing="-4"><text x="54" y="209">ASHUTOSH</text><text x="54" y="294">SAHOO<tspan fill="#78dce8">_</tspan></text></g>
+<text x="60" y="342" fill="#c2ced6" font-family="monospace" font-size="19">Building Android. Exploring what’s beyond the screen.</text>
+<g font-family="monospace" font-size="12"><rect x="60" y="379" width="88" height="28" rx="3" fill="#193238"/><text x="104" y="398" text-anchor="middle" fill="#78dce8">KOTLIN</text><rect x="158" y="379" width="156" height="28" rx="3" fill="#193238"/><text x="236" y="398" text-anchor="middle" fill="#78dce8">JETPACK COMPOSE</text><rect x="324" y="379" width="139" height="28" rx="3" fill="#193238"/><text x="393" y="398" text-anchor="middle" fill="#78dce8">NATIVE ANDROID</text></g>
+<g transform="translate(952 239)" fill="none"><circle r="149" stroke="#243943"/><circle r="122" stroke="#344b55" stroke-dasharray="3 13"/><path d="M-149 0h298M0-149v298" stroke="#243943"/><path d="M-130-73a149 149 0 0 1 260 0M130 73a149 149 0 0 1-260 0" stroke="#78dce8" stroke-width="3"/>
+<rect x="-49" y="-82" width="98" height="164" rx="14" fill="#101c24" stroke="#78dce8" stroke-width="2"/><path d="M-15-68h30M-15 68h30" stroke="#78dce8" stroke-width="3"/>
+<path d="M-28-12a28 28 0 0 1 56 0v27h-56z" fill="#78dce8" stroke="none"/><path d="M-20-37l8 13M20-37l-8 13" stroke="#78dce8" stroke-width="3"/><circle cx="-12" cy="-11" r="3" fill="#101c24"/><circle cx="12" cy="-11" r="3" fill="#101c24"/>
+<g fill="#f3bd67" stroke="#090f14" stroke-width="5"><circle cx="0" cy="-149" r="7"/><circle cx="129" cy="74" r="7"/><circle cx="-129" cy="74" r="7"/></g></g>
+<g font-family="monospace" font-size="11" fill="#a3b6c1"><text x="952" y="71" text-anchor="middle">AUTOMOTIVE</text><text x="777" y="343" text-anchor="middle">IoT</text><text x="1118" y="343" text-anchor="middle">ROBOTICS</text></g>
+<g font-family="monospace"><text x="38" y="482" fill="#7f929e" font-size="11" letter-spacing="2">EXPERIENCE</text><text x="38" y="508" fill="#eef3f5" font-size="17">Android development</text><text x="420" y="482" fill="#7f929e" font-size="11" letter-spacing="2">DIRECTION</text><text x="420" y="508" fill="#eef3f5" font-size="17">AAOS / IoT / drones / robotics</text><text x="1162" y="505" fill="#f3bd67" font-size="12" text-anchor="end">CODE → CONNECT → BUILD</text></g>
 </svg>
