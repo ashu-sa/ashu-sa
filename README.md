@@ -41,6 +41,8 @@ Exploring how **hardware connects with software** through **Android Automotive, 
   <img src="assets/icons/supabase.svg" width="22" height="22" alt="Supabase" /> Supabase
 </p>
 
+**Device connectivity:** Bluetooth Low Energy (BLE) · NFC · Wi-Fi Direct
+
 **Android libraries:** Coroutines · Flow / StateFlow · ViewModel · Room · Retrofit · Hilt · Material 3
 
 **Architecture & testing:** MVVM · Repository pattern · Unit tests · Compose UI tests
@@ -77,6 +79,12 @@ Exploring how **hardware connects with software** through **Android Automotive, 
       <a href="https://github.com/ashu-sa/QuickClip"><img src="assets/project-quickclip.svg" alt="QuickClip — native macOS clipboard utility" width="100%" /></a>
       <p>A macOS clipboard utility with a floating panel, pinned clips, file staging and keyboard shortcuts. Built with SwiftUI and AppKit.</p>
       <p><a href="https://github.com/ashu-sa/QuickClip">Preview</a> · <a href="https://github.com/ashu-sa/QuickClip">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ashu-sa/AirBridge"><img src="assets/project-airbridge.svg" alt="AirBridge — Android BLE wearable alerts" width="100%" /></a>
+      <p>An independent Android app for Fitbit Air wrist alerts. Built with Kotlin and Compose, with BLE discovery, distinct haptic patterns, optional notification rules and connection recovery.</p>
+      <p>Separate Calls and Full editions with signed release APKs. Experimental: live alert delivery, battery use and companion-app coexistence are still being validated.</p>
+      <p><a href="https://github.com/ashu-sa/AirBridge/releases/latest">Download</a> · <a href="https://github.com/ashu-sa/AirBridge#screenshots">Screenshots</a> · <a href="https://github.com/ashu-sa/AirBridge">Code</a></p>
     </td>
   </tr>
 </table>
