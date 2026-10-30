@@ -8,16 +8,18 @@
   <a href="https://github.com/ashu-sa?tab=repositories"><img src="assets/contact-github.svg" alt="Browse my repositories" height="42" /></a>
 </p>
 
-I’m Ashutosh. I build native apps with **Kotlin, Jetpack Compose and SwiftUI**—from recipe discovery and offline file sharing to desktop utilities and a growing-tree focus timer.
+I’m Ashutosh, an Android developer who likes working where an app meets a real device. At Alopa Infotech, I worked on healthcare projects supporting **Novo Nordisk and Pfizer**, including Dose Check, Kotlin Multiplatform work across Android and iOS, and **BLE/NFC connections to glucose monitors and smart insulin pens**.
 
-Exploring how **hardware connects with software** through **Android Automotive, IoT, drones and robotics**.
+Outside work, I build things I want to use. **Focanopy** turns focus sessions into growing trees. **AirBridge** explores wrist alerts on Fitbit Air over Bluetooth. **QuickClip** keeps clips and files close at hand on macOS. I enjoy the details behind these apps: recovering a connection, keeping data available offline, and making a release someone can install.
+
+My main tools are **Kotlin and Jetpack Compose**, with Swift/SwiftUI for macOS projects. I’m looking for Android and application developer roles, and exploring connected software in **Android Automotive, maritime technology, IoT and robotics**.
 
 ## Technical skills
 
 <p>
-  <img src="assets/skills-mobile.svg" width="100%" alt="Android and mobile: Kotlin, Jetpack Compose, Android Studio, Coroutines, Flow, ViewModel, Room, Retrofit, Hilt and Material 3" />
-  <img src="assets/skills-connected.svg" width="100%" alt="Connected devices and quality: BLE, NFC, Wi-Fi Direct, MVVM, Repository pattern, unit tests and Compose UI tests" />
-  <img src="assets/skills-tooling.svg" width="100%" alt="Desktop, tools and backend: Swift/SwiftUI, Python, Qt/PySide6, Linux, Git, Gradle, GitHub Actions and Supabase" />
+  <img src="assets/skills-mobile-icons.svg" width="100%" alt="Android and mobile: Kotlin, Jetpack Compose, Android Studio, Coroutines, Flow, ViewModel, Room, Retrofit, Hilt and Material 3" />
+  <img src="assets/skills-connected-icons.svg" width="100%" alt="Connected devices and quality: BLE, NFC, Wi-Fi Direct, MVVM, Repository pattern, unit tests and Compose UI tests" />
+  <img src="assets/skills-tooling-icons.svg" width="100%" alt="Desktop, tools and backend: Swift/SwiftUI, Python, Qt/PySide6, Linux, Git, Gradle, GitHub Actions and Supabase" />
 </p>
 
 ## Featured projects
