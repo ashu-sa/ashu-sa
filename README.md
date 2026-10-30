@@ -14,38 +14,11 @@ Exploring how **hardware connects with software** through **Android Automotive, 
 
 ## Technical skills
 
-**Mobile**
-
 <p>
-  <img src="assets/icons/android.svg" width="22" height="22" alt="Android" /> Android &nbsp; · &nbsp;
-  <img src="assets/icons/kotlin.svg" width="22" height="22" alt="Kotlin" /> Kotlin &nbsp; · &nbsp;
-  <img src="assets/icons/compose.svg" width="22" height="22" alt="Jetpack Compose" /> Jetpack Compose &nbsp; · &nbsp;
-  <img src="assets/icons/androidstudio.svg" width="22" height="22" alt="Android Studio" /> Android Studio
+  <img src="assets/skills-mobile.svg" width="100%" alt="Android and mobile: Kotlin, Jetpack Compose, Android Studio, Coroutines, Flow, ViewModel, Room, Retrofit, Hilt and Material 3" />
+  <img src="assets/skills-connected.svg" width="100%" alt="Connected devices and quality: BLE, NFC, Wi-Fi Direct, MVVM, Repository pattern, unit tests and Compose UI tests" />
+  <img src="assets/skills-tooling.svg" width="100%" alt="Desktop, tools and backend: Swift/SwiftUI, Python, Qt/PySide6, Linux, Git, Gradle, GitHub Actions and Supabase" />
 </p>
-
-**Desktop & systems**
-
-<p>
-  <img src="assets/icons/swift.svg" width="22" height="22" alt="Swift / SwiftUI" /> Swift / SwiftUI &nbsp; · &nbsp;
-  <img src="assets/icons/linux.svg" width="22" height="22" alt="Linux" /> Linux &nbsp; · &nbsp;
-  <img src="assets/icons/python.svg" width="22" height="22" alt="Python" /> Python &nbsp; · &nbsp;
-  <img src="assets/icons/qt.svg" width="22" height="22" alt="Qt / PySide6" /> Qt / PySide6
-</p>
-
-**Tools & backend**
-
-<p>
-  <img src="assets/icons/git.svg" width="22" height="22" alt="Git" /> Git &nbsp; · &nbsp;
-  <img src="assets/icons/gradle-backed.svg" width="22" height="22" alt="Gradle" /> Gradle &nbsp; · &nbsp;
-  <img src="assets/icons/githubactions.svg" width="22" height="22" alt="GitHub Actions" /> GitHub Actions &nbsp; · &nbsp;
-  <img src="assets/icons/supabase.svg" width="22" height="22" alt="Supabase" /> Supabase
-</p>
-
-**Device connectivity:** Bluetooth Low Energy (BLE) · NFC · Wi-Fi Direct
-
-**Android libraries:** Coroutines · Flow / StateFlow · ViewModel · Room · Retrofit · Hilt · Material 3
-
-**Architecture & testing:** MVVM · Repository pattern · Unit tests · Compose UI tests
 
 ## Featured projects
 
